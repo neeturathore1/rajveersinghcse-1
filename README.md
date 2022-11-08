@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <div align="left"> 
-<p align="left"><a href="https://twitter.com/itsdevilshot" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/twitter.png" alt="rajveersinghcse" height="30" width="30" /></a>
+<p align="left"><a href="https://twitter.com/itsdevilshot" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/twitter.png" alt="rajveersinghcse" height="29" width="30" /></a>
 <a href="https://linkedin.com/in/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/linkedin.png" alt="rajveersinghcse" height="28" width="28" /></a>
 <a href="https://kaggle.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/kaggle.png" alt="rajveersinghcse" height="28" width="28" /></a>
 <a href="https://www.hackerrank.com/rajveersinghcse" target="_blank"><img align="center" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/hackerrank.png" alt="rajveersinghcse" height="28" width="28" /></a> </p></div>
